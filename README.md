@@ -2,7 +2,7 @@
 ## Hello I'm Olumoyin Titobi Joshua 👋
 
 
-##  I’m a proactive and euphoric designer and front-end developer
+##  I’m a proactive and euphoric designer and also a front-end developer
 ## 🛠 Skills
 Javascript, HTML, CSS, Typescript, tailwind-css, React 
 
