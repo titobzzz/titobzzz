@@ -14,7 +14,7 @@ Javascript, HTML, CSS, Typescript, tailwind-css, React
 
 👯‍♀️ I'm looking to collaborate on...
 
-🤔 I'm looking for help with mentorship and interships
+🤔 I'm looking for help with Jobs and mentorships
 
 ⚡️ Fun fact - i design too
 
