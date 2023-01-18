@@ -10,7 +10,7 @@ Javascript, HTML, CSS, Typescript, tailwind-css, React
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on my portfolio
 
-🧠 I'm currently learning typescript react and sass.
+🧠 I'm currently learning Solidity and web3.js.
 
 👯‍♀️ I'm looking to collaborate on...
 
