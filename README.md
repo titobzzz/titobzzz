@@ -2,9 +2,9 @@
 ## Hello I'm Olumoyin Titobi Joshua 👋
 
 
-##  I’m a proactive and euphoric designer and also a front-end developer
+##  I’m a proactive and euphoric designer and also a fullstack
 ## 🛠 Skills
-Javascript, HTML, CSS, Typescript, tailwind-css, React 
+Javascript, HTML, CSS, Typescript, tailwind-css, React, React-Native, DjangoREST 
 
 
 ## Other Common Github Profile Sections
