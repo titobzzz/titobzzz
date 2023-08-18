@@ -4,10 +4,10 @@
 
 ##  I’m a proactive and euphoric designer and also a full-stack developer
 ## 🛠 Skills
-Javascript, HTML, CSS, Typescript, tailwind-css, React, React-Native, DjangoREST 
+Javascript, HTML, CSS, Typescript, tailwind-css, React, React-Native, and Django-REST framework
 
 
-## Other Common Github Profile Sections
+## Other Common GitHub Profile Sections
 👩‍💻 I'm currently working on my portfolio
 
 🧠 I'm currently learning Solidity and web3.js.
@@ -25,5 +25,5 @@ Javascript, HTML, CSS, Typescript, tailwind-css, React, React-Native, DjangoREST
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a full-stack developer...
 
