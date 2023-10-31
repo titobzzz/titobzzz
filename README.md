@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **AI/ML Projects for web apps**
 
-- 🤝 I’m looking for help with **an internship or juniior role**
+- 🤝 I’m looking for help with **an internship or junior role**
 
 - 📝 I regularly write articles on [https://titobzzz.hashnode.dev/](https://titobzzz.hashnode.dev/)
 
-- 💬 Ask me about **React and React native, DRF and APIs, Tailwind css**
+- 💬 Ask me about **React and React Native, DRF and APIs, Tailwind css**
 
 - 📫 How to reach me **olumoyinjoshua19609@gmial.com**
 
