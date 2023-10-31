@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olumoyin Titobi Joshua</h1>
-<h3 align="center">A passionate fullstack developer with a strong background in design.</h3>
+<h3 align="center">A full stack developer with a strong background in design.</h3>
 
 - 🔭 I’m currently working on **My portfolio**
 
