@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Olumoyin Titobi Joshua</h1>
-<h3 align="center">A full stack developer with a strong background in design.</h3>
+<h3 align="center">A full stack web and mobile engineer bridging web2 and web3 with a strong background in design.</h3>
 
-- 🔭 I’m currently working on **My portfolio**
+- 🔭 I’m currently working on **Projects that bridge web2 and web3**
 
 - 🌱 I’m currently learning **C, Regrexp, Web infrastructure and fire-walls, Data S & A**
 
-- 👯 I’m looking to collaborate on **AI/ML Projects for web apps**
+- 👯 I’m looking to collaborate on **AI/ML Projects that bridges web2 and web3 apps**
 
-- 🤝 I’m looking for help with **an internship or junior role**
+- 🤝 I’m looking for help with **software engineering roles**
 
-- 📝 I regularly write articles on [https://titobzzz.hashnode.dev/](https://titobzzz.hashnode.dev/)
+- 📝 I write articles on [https://titobzzz.hashnode.dev/](https://titobzzz.hashnode.dev/)
 
-- 💬 Ask me about **React and React Native, DRF and APIs, Tailwind css**
+- 💬 Ask me about **React and React Native, DRF, nodejs,remix, and APIs, solidity, web3js, Tailwind css**
 
-- 📫 How to reach me **olumoyinjoshua19609@gmial.com**
+- 📫 How to reach me **olumoyinjoshua19609@gmail.com**
 
 - ⚡ Fun fact **I'm always learning something new.**
 
