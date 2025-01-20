@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **C, Regrexp, Web infrastructure and fire-walls, Data S & A**
 
-- 👯 I’m looking to collaborate on **AI/ML Projects that bridges web2 and web3 apps**
+- 👯 I’m looking to collaborate on **Smart contracts and Projects that bridges web2 and web3 apps**
 
-- 🤝 I’m looking for help with **software engineering roles**
+- 🤝 I’m looking for help with **smart contract and software engineering roles**
 
 - 📝 I write articles on [https://titobzzz.hashnode.dev/](https://titobzzz.hashnode.dev/)
 
