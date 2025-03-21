@@ -1,21 +1,33 @@
 <h1 align="center">Hi 👋, I'm Olumoyin Titobi Joshua</h1>
-<h3 align="center">A full stack web and mobile engineer bridging web2 and web3 with a strong background in design.</h3>
+<h3 align="center">Full-Stack Web & Mobile Engineer | Web2 & Web3 Integration | UX-Focused Developer</h3>
 
-- 🔭 I’m currently working on **Projects that bridge web2 and web3**
+🚀 **What I Do:**  
+I specialize in building scalable and user-friendly web and mobile applications, bridging Web2 and Web3 technologies with a strong foundation in design.  
 
-- 🌱 I’m currently learning **C, Regrexp, Web infrastructure and fire-walls, Data S & A**
+🔭 **Current Projects:**  
+- Developing applications that seamlessly integrate Web2 and Web3.  
 
-- 👯 I’m looking to collaborate on **Smart contracts and Projects that bridges web2 and web3 apps**
+🌱 **Currently Learning:**  
+- C, Regular Expressions, Web Infrastructure & Firewalls, Data Structures & Algorithms.  
 
-- 🤝 I’m looking for help with **smart contract and software engineering roles**
+👯 **Open to Collaborations:**  
+- Smart contracts and hybrid Web2-Web3 projects.  
 
-- 📝 I write articles on [https://titobzzz.hashnode.dev/](https://titobzzz.hashnode.dev/)
+🤝 **Looking for Opportunities In:**  
+- Smart contract development & software engineering roles.  
 
-- 💬 Ask me about **React and React Native, DRF, nodejs,remix, and APIs, solidity, web3js, Tailwind css**
+📝 **Technical Writing & Insights:**  
+- I share insights on **[my blog](https://titobzzz.hashnode.dev/)**.  
 
-- 📫 How to reach me **olumoyinjoshua19609@gmail.com**
+💬 **Let’s Talk About:**  
+- React, React Native, Django REST Framework, Node.js, Remix, APIs, Solidity, Web3.js, Tailwind CSS.  
 
-- ⚡ Fun fact **I'm always learning something new.**
+📫 **Contact Me:**  
+- Email: olumoyinjoshua19609@gmail.com  
+
+⚡ **Fun Fact:**  
+- I’m always learning something new!  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
