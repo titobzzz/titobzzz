@@ -1,32 +1,33 @@
 <h1 align="center">Hi 👋, I'm Olumoyin Titobi Joshua</h1>
-<h3 align="center">Full-Stack Web & Mobile Engineer | Web2 & Web3 Integration | UX-Focused Developer</h3>
+<h3 align="center">Full-Stack Web & Mobile Engineer | Web2 & Web3 Integration </h3>
 
 🚀 **What I Do:**  
-I specialize in building scalable and user-friendly web and mobile applications, bridging Web2 and Web3 technologies with a strong foundation in design.  
+I specialize in developing scalable and user-friendly web and mobile applications, integrating Web2 and Web3 technologies with a strong foundation in design.  
 
 🔭 **Current Projects:**  
-- Developing applications that seamlessly integrate Web2 and Web3.  
+- Building decentralized applications (dApps) that bridge Web2 and Web3.  
 
 🌱 **Currently Learning:**  
-- C, Regular Expressions, Web Infrastructure & Firewalls, Data Structures & Algorithms.  
+- Advanced Solidity, Smart Contract Security, ZK Proofs, Account Abstraction, and Modular Blockchain Development.  
 
 👯 **Open to Collaborations:**  
-- Smart contracts and hybrid Web2-Web3 projects.  
+- Smart contract development and Web3-powered applications.  
 
 🤝 **Looking for Opportunities In:**  
-- Smart contract development & software engineering roles.  
+- Web3 development, smart contract engineering, and full-stack software engineering roles.  
 
 📝 **Technical Writing & Insights:**  
 - I share insights on **[my blog](https://titobzzz.hashnode.dev/)**.  
 
 💬 **Let’s Talk About:**  
-- React, React Native, Django REST Framework, Node.js, Remix, APIs, Solidity, Web3.js, Tailwind CSS.  
+- Solidity, Web3.js, Ethers.js, React, React Native, Django REST Framework, Node.js, Remix, Tailwind CSS.  
 
 📫 **Contact Me:**  
 - Email: olumoyinjoshua19609@gmail.com  
 
 ⚡ **Fun Fact:**  
-- I’m always learning something new!  
+- I’m always exploring cutting-edge Web3 innovations!  
+
 
 
 <h3 align="left">Connect with me:</h3>
